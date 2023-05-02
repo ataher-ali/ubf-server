@@ -4,7 +4,7 @@
       "name": "Jamie Oliver",
       "picture": "https://static8.depositphotos.com/1301750/1020/i/450/depositphotos_10202910-stock-photo-female-chef-preparing-meal.jpg",
       "experience_year": 20,
-      "numbers_of_recipes": 500,
+      "numbers_of_recipes": 8,
       "likes": 10000
     },
     {
@@ -12,7 +12,7 @@
       "name": "Gordon Ramsay",
       "picture": "https://st3.depositphotos.com/9881890/17718/i/450/depositphotos_177186078-stock-photo-handsome-chef-standing-fork-cooked.jpg",
       "experience_year": 30,
-      "numbers_of_recipes": 800,
+      "numbers_of_recipes": 6,
       "likes": 20000
     },
     {
@@ -20,7 +20,7 @@
       "name": "Ina Garten",
       "picture": "https://st4.depositphotos.com/12985790/24165/i/450/depositphotos_241658828-stock-photo-beautiful-happy-female-chef-uniform.jpg",
       "experience_year": 25,
-      "numbers_of_recipes": 300,
+      "numbers_of_recipes": 3,
       "likes": 15000
     },
     {
@@ -28,7 +28,7 @@
       "name": "Bobby Flay",
       "picture": "https://st.depositphotos.com/1518767/4293/i/450/depositphotos_42937873-stock-photo-smiling-male-pastry-chef-with.jpg",
       "experience_year": 35,
-      "numbers_of_recipes": 700,
+      "numbers_of_recipes": 7,
       "likes": 18000
     },
     {
@@ -36,7 +36,7 @@
       "name": "Nigella Lawson",
       "picture": "https://st.depositphotos.com/1518767/4293/i/450/depositphotos_42937873-stock-photo-smiling-male-pastry-chef-with.jpg",
       "experience_year": 15,
-      "numbers_of_recipes": 400,
+      "numbers_of_recipes": 4,
       "likes": 12000
     },
     {
@@ -44,7 +44,7 @@
       "name": "Anthony Bourdain",
       "picture": "https://st3.depositphotos.com/9881890/17718/i/450/depositphotos_177186116-stock-photo-chef-holding-plate-fried-vegetables.jpg",
       "experience_year": 20,
-      "numbers_of_recipes": 250,
+      "numbers_of_recipes": 5,
       "likes": 9000
     }
   ]
