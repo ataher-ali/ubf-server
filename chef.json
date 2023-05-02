@@ -4,7 +4,8 @@
       "name": "Jamie Oliver",
       "picture": "https://static8.depositphotos.com/1301750/1020/i/450/depositphotos_10202910-stock-photo-female-chef-preparing-meal.jpg",
       "experience_year": 20,
-      "numbers_of_recipes": 8,
+      "food_region":"Japan",
+      "recipes": [  "Sushi",  "Ramen",  "Tempura",  "Udon",  "Yakitori",  "Tonkatsu",  "Miso Soup",  "Gyoza",  "Okonomiyaki",  "Katsu Curry"]      ,
       "likes": 10000
     },
     {
@@ -12,7 +13,9 @@
       "name": "Gordon Ramsay",
       "picture": "https://st3.depositphotos.com/9881890/17718/i/450/depositphotos_177186078-stock-photo-handsome-chef-standing-fork-cooked.jpg",
       "experience_year": 30,
-      "numbers_of_recipes": 6,
+      "food_region":"Italy",
+      "recipes": [  "Pizza Margherita",  "Spaghetti Carbonara",  "Lasagna",  "Risotto",  "Osso Buco",  "Bruschetta",  "Caprese Salad",  "Tiramisu",  "Pesto",  "Minestrone Soup"]
+      ,
       "likes": 20000
     },
     {
@@ -20,7 +23,8 @@
       "name": "Ina Garten",
       "picture": "https://st4.depositphotos.com/12985790/24165/i/450/depositphotos_241658828-stock-photo-beautiful-happy-female-chef-uniform.jpg",
       "experience_year": 25,
-      "numbers_of_recipes": 3,
+      "food_region":"Vietnam",
+      "recipes":[  "Pho",  "Banh Mi",  "Goi Cuon",  "Bun Cha",  "Bun Bo Hue",  "Com Tam",  "Banh Xeo",  "Ca Phe Sua Da",  "Bun Rieu",  "Xoi"],
       "likes": 15000
     },
     {
@@ -28,7 +32,8 @@
       "name": "Bobby Flay",
       "picture": "https://st.depositphotos.com/1518767/4293/i/450/depositphotos_42937873-stock-photo-smiling-male-pastry-chef-with.jpg",
       "experience_year": 35,
-      "numbers_of_recipes": 7,
+      "food_region":"Korea",
+      "recipes": [  "Bibimbap",  "Bulgogi",  "Kimchi",  "Japchae",  "Tteokbokki",  "Samgyeopsal",  "Galbi",  "Haemul Pajeon",  "Jjigae",  "Gimbap"],
       "likes": 18000
     },
     {
@@ -36,7 +41,8 @@
       "name": "Nigella Lawson",
       "picture": "https://st.depositphotos.com/1518767/4293/i/450/depositphotos_42937873-stock-photo-smiling-male-pastry-chef-with.jpg",
       "experience_year": 15,
-      "numbers_of_recipes": 4,
+      "food_region":"India",
+      "recipes": [  "Butter Chicken",  "Biryani",  "Chana Masala",  "Samosas",  "Tandoori Chicken",  "Masala Dosa",  "Aloo Gobi",  "Rogan Josh",  "Palak Paneer",  "Gulab Jamun"]      ,
       "likes": 12000
     },
     {
@@ -44,7 +50,8 @@
       "name": "Anthony Bourdain",
       "picture": "https://st3.depositphotos.com/9881890/17718/i/450/depositphotos_177186116-stock-photo-chef-holding-plate-fried-vegetables.jpg",
       "experience_year": 20,
-      "numbers_of_recipes": 5,
+      "food_region":"China",
+      "recipes": [  "Kung Pao Chicken",  "Dumplings",  "Hot and Sour Soup",  "Mapo Tofu",  "Chow Mein",  "Spring Rolls",  "Peking Duck",  "Ma Po Eggplant",  "Fried Rice",  "Szechuan Beef"]      ,
       "likes": 9000
     }
   ]

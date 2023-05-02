@@ -1,0 +1,23 @@
+[
+    { "id": 1,  "title": "Sushi", "details": "Sliced raw fish over pressed vinegar rice.", "image": "https://example.com/sushi.jpg"},
+    { "id": 2,  "title": "Ramen", "details": "Noodles in savory broth topped with meat and vegetables.", "image": "https://example.com/ramen.jpg"},
+    { "id": 3,  "title": "Tempura", "details": "Battered and deep-fried seafood and vegetables.", "image": "https://example.com/tempura.jpg"},
+    { "id": 4,  "title": "Udon", "details": "Thick noodles in a hot soup broth topped with various ingredients.", "image": "https://example.com/udon.jpg"},
+    { "id": 5,  "title": "Yakitori", "details": "Grilled chicken skewers seasoned with soy sauce.", "image": "https://example.com/yakitori.jpg"},
+    { "id": 6,  "title": "Tonkatsu", "details": "Breaded and deep-fried pork cutlet served with rice and sauce.", "image": "https://example.com/tonkatsu.jpg"},
+    { "id": 7,  "title": "Miso Soup", "details": "Hot soup made with miso paste and ingredients such as tofu and seaweed.", "image": "https://example.com/miso_soup.jpg"},
+    { "id": 8,  "title": "Gyoza", "details": "Pan-fried or steamed dumplings filled with meat and vegetables.", "image": "https://example.com/gyoza.jpg"},
+    { "id": 9,  "title": "Okonomiyaki", "details": "Savory pancake filled with meat, seafood, and vegetables.", "image": "https://example.com/okonomiyaki.jpg"},
+    { "id": 10, "title": "Katsu Curry", "details": "Japanese curry with breaded and deep-fried pork cutlet.", "image": "https://example.com/katsu_curry.jpg"},
+    { "id": 11, "title": "Pizza Margherita", "details": "A classic Neapolitan pizza made with tomato sauce, fresh mozzarella cheese, and basil leaves.", "image": "https://example.com/pizza-margherita.jpg"},
+    { "id": 12, "title": "Spaghetti Carbonara", "details": "A pasta dish made with spaghetti, pancetta, eggs, pecorino cheese, and black pepper.", "image": "https://example.com/spaghetti-carbonara.jpg"},
+    { "id": 13, "title": "Lasagna", "details": "A layered pasta dish made with tomato sauce, béchamel sauce, and ground meat or vegetables.", "image": "https://example.com/lasagna.jpg"},
+    { "id": 14, "title": "Risotto", "details": "A creamy rice dish made with butter, onion, white wine, and Parmesan cheese.", "image": "https://example.com/risotto.jpg"},
+    { "id": 15, "title": "Osso Buco", "details": "A Milanese specialty made with braised veal shanks and gremolata (a mixture of lemon zest, garlic, and parsley).", "image": "https://example.com/osso-buco.jpg"},
+    { "id": 16, "title": "Bruschetta", "details": "Grilled bread rubbed with garlic and topped with olive oil and diced tomatoes or other toppings.", "image": "https://example.com/bruschetta.jpg"},
+    { "id": 17, "title": "Caprese Salad", "details": "A simple salad made with fresh mozzarella cheese, sliced tomatoes, and basil leaves.", "image": "https://example.com/caprese-salad.jpg"},
+    { "id": 18, "title": "Tiramisu","details": "A dessert made with ladyfingers dipped in espresso and layered with mascarpone cheese and cocoa powder.","image": "https://example.com/tiramisu.jpg"},
+    { "id": 19, "title": "Pesto", "details": "A sauce made with basil, garlic, pine nuts, Parmesan cheese, and olive oil, traditionally served with pasta.", "image": "https://example.com/pesto.jpg"},
+    { "id": 20, "title": "Minestrone Soup", "details": "A hearty vegetable soup made with beans, pasta, and various vegetables.", "image": "https://example.com/minestrone-soup.jpg"}
+  
+]
