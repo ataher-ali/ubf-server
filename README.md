@@ -13,3 +13,8 @@ api/foods/{id} > for single id food
 api/chefs/ 👉 [https://a10-server-puce.vercel.app/chefs](https://a10-server-puce.vercel.app/chefs)
 
 api/chefs/{id} > for single id chef
+
+### Blogs
+api/chefs/ 👉 [https://a10-server-puce.vercel.app/chefs](https://a10-server-puce.vercel.app/blpgs)
+
+api/blogss/{id} > for single id Blog
