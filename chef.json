@@ -2,7 +2,7 @@
     {
       "_id": 1,
       "name": "Jamie Oliver",
-      "picture": "https://static8.depositphotos.com/1301750/1020/i/450/depositphotos_10202910-stock-photo-female-chef-preparing-meal.jpg",
+      "picture": "https://plus.unsplash.com/premium_photo-1661778021952-65997d03b2b2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
       "experience_year": 20,
       "food_region":"Japan",
       "recipes": [  "Sushi",  "Ramen",  "Tempura",  "Udon",  "Yakitori",  "Tonkatsu",  "Miso Soup",  "Gyoza",  "Okonomiyaki",  "Katsu Curry"]      ,
@@ -39,7 +39,7 @@
     {
       "_id": 5,
       "name": "Nigella Lawson",
-      "picture": "https://st.depositphotos.com/1518767/4293/i/450/depositphotos_42937873-stock-photo-smiling-male-pastry-chef-with.jpg",
+      "picture": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
       "experience_year": 15,
       "food_region":"India",
       "recipes": [  "Butter Chicken",  "Biryani",  "Chana Masala",  "Samosas",  "Tandoori Chicken",  "Masala Dosa",  "Aloo Gobi",  "Rogan Josh",  "Palak Paneer",  "Gulab Jamun"]      ,
@@ -48,7 +48,7 @@
     {
       "_id": 6,
       "name": "Anthony Bourdain",
-      "picture": "https://st3.depositphotos.com/9881890/17718/i/450/depositphotos_177186116-stock-photo-chef-holding-plate-fried-vegetables.jpg",
+      "picture": "https://images.unsplash.com/photo-1595273670150-bd0c3c392e46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1087&q=80",
       "experience_year": 20,
       "food_region":"China",
       "recipes": [  "Kung Pao Chicken",  "Dumplings",  "Hot and Sour Soup",  "Mapo Tofu",  "Chow Mein",  "Spring Rolls",  "Peking Duck",  "Ma Po Eggplant",  "Fried Rice",  "Szechuan Beef"]      ,

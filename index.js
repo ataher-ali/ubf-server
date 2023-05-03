@@ -3,6 +3,10 @@ const app = express()
 const port = 1010
 const Chefs = require('./chef.json')
 const Foods = require('./foods.json')
+var cors = require('cors')
+
+app.use(cors())
+
 
 app.get('/', (req, res) => {
   res.send('Welcome to  🍕🍜rest 2 rant 📡 server ! ') 
