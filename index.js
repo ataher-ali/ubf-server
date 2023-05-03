@@ -3,6 +3,8 @@ const app = express()
 const port = 1010
 const Chefs = require('./chef.json')
 const Foods = require('./foods.json')
+const Blogs = require('./blogs.json')
+
 var cors = require('cors')
 
 app.use(cors())
@@ -34,6 +36,11 @@ app.get('/foods', (req, res) => {
     console.log(`params ${id}`);
     const food = Foods.find(food=>food.id===id )||{message: "data not found!"};
     res.send(food) 
+})
+
+//food
+app.get('/blogs', (req, res) => {
+  res.send(Blogs)
 })
 
 
