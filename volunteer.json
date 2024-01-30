@@ -5,7 +5,8 @@
       "name": "জিয়ন রায়হান ",
       "designation":"প্রধান সমন্বয়ক",
       "picture": "https://cutt.ly/xwZQcXxK",
-      "bio" :"abcd"
+      "bio" :"abcd",
+      "facebook":"https://www.facebook.com/zion.rayhan.3"
     },
     {
       "_id":2,
@@ -13,7 +14,8 @@
       "name": "তাছমিয়া তাহসিন ",
       "designation":"স্বেচ্ছাসেবক (তথ্য প্রযুক্তি )",
       "picture": "https://i.ibb.co/R7QhbjV/399875650-674815048076844-5503223278554123284-n.jpg",
-      "bio" :""
+      "bio" :"",
+      "facebook":"https://www.facebook.com/"
     },
     {
       "_id":4,
@@ -21,7 +23,8 @@
       "name": "আতাহার আলি",
       "designation":"স্বেচ্ছাসেবক (তথ্য প্রযুক্তি )",
       "picture": "https://i.ibb.co/88tS7GH/128194592-139876497548225-5881950318006827444-n.jpg",
-      "bio" :""
+      "bio" :"",
+      "facebook":"https://www.facebook.com/atahar369/"
     },
     {
       "_id":5,
@@ -29,7 +32,8 @@
       "name": "সাজ্জাদ হোসেন সজীব ",
       "designation":"স্বেচ্ছাসেবক",
       "picture": "https://i.ibb.co/jZ2gSRd/356368973-1001389200871746-1615404066156307860-n.jpg",
-      "bio" :""
+      "bio" :"",
+      "facebook":"https://www.facebook.com/Sajjadsajib37"
     },
     {
       "_id":6, 
@@ -37,7 +41,8 @@
       "name": "সন্ধি সরকার",
       "designation":"স্বেচ্ছাসেবক",
       "picture": "https://i.ibb.co/4tLjC2F/411191558-319414204242738-918797324874019607-n.jpg",
-      "bio" :""
+      "bio" :"",
+      "facebook":"https://www.facebook.com/"
     },
     {
       "_id":7,
@@ -45,7 +50,8 @@
       "name": "বিরাজ প্রামানিক",
       "designation":"স্বেচ্ছাসেবক",
       "picture": "https://i.ibb.co/ygKgVbw/363323333-302766785482612-6875231959447387708-n.jpg",
-      "bio" :""
+      "bio" :"",
+      "facebook":"https://www.facebook.com/profile.php?id=100072478786137"
     }
     
   ]
