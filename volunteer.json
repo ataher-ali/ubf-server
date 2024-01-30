@@ -7,7 +7,8 @@
       "designation":"প্রধান সমন্বয়ক",
       "picture": "https://cutt.ly/xwZQcXxK",
       "bio" :"abcd",
-      "facebook":"https://www.facebook.com/zion.rayhan.3"
+      "facebook":"https://www.facebook.com/zion.rayhan.3",
+      "whatsapp":"01751251286"
     },
     {
       "_id":2,
@@ -17,7 +18,8 @@
       "designation":"স্বেচ্ছাসেবক ",
       "picture": "https://i.ibb.co/R7QhbjV/399875650-674815048076844-5503223278554123284-n.jpg",
       "bio" :"",
-      "facebook":"https://www.facebook.com/"
+      "facebook":"https://www.facebook.com/",
+      "whatsapp":"01751251286"
     },
     {
       "_id":4,
@@ -27,7 +29,8 @@
       "designation":"স্বেচ্ছাসেবক ",
       "picture": "https://i.ibb.co/88tS7GH/128194592-139876497548225-5881950318006827444-n.jpg",
       "bio" :"",
-      "facebook":"https://www.facebook.com/atahar369/"
+      "facebook":"https://www.facebook.com/atahar369/",
+      "whatsapp":"01751251286"
     },
     {
       "_id":5,
@@ -37,7 +40,8 @@
       "designation":"স্বেচ্ছাসেবক",
       "picture": "https://i.ibb.co/jZ2gSRd/356368973-1001389200871746-1615404066156307860-n.jpg",
       "bio" :"",
-      "facebook":"https://www.facebook.com/Sajjadsajib37"
+      "facebook":"https://www.facebook.com/Sajjadsajib37",
+      "whatsapp":"01751251286"
     },
     {
       "_id":6, 
@@ -47,7 +51,8 @@
       "designation":"স্বেচ্ছাসেবক",
       "picture": "https://i.ibb.co/4tLjC2F/411191558-319414204242738-918797324874019607-n.jpg",
       "bio" :"",
-      "facebook":"https://www.facebook.com/"
+      "facebook":"https://www.facebook.com/",
+      "whatsapp":"01751251286"
     },
     {
       "_id":7,
@@ -57,7 +62,8 @@
       "designation":"স্বেচ্ছাসেবক",
       "picture": "https://i.ibb.co/ygKgVbw/363323333-302766785482612-6875231959447387708-n.jpg",
       "bio" :"",
-      "facebook":"https://www.facebook.com/profile.php?id=100072478786137"
+      "facebook":"https://www.facebook.com/profile.php?id=100072478786137",
+      "whatsapp":"01751251286"
     }
     
   ]
