@@ -13,6 +13,38 @@
     "job":"মেয়র, উলিপুর পৌরসভা ",
     "picture": "https://bitly.ws/3bZuL"
   }
+  ,
+  {
+    "_id": 3,
+    "gest":"বিশেষ অতিথি",
+    "name":"জোবায়ের আল মুকুল",
+    "job":"উপাধ্যক্ষ, উলিপুর সরকারি কলেজ",
+    "picture": "https://scontent.fjsr1-1.fna.fbcdn.net/v/t1.6435-9/141621902_2825699031026217_8275635251194739940_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=7a1959&_nc_eui2=AeFTsQi3c_0j9iuckjp4xjnslCBjwzZBNl2UIGPDNkE2XVTP7vOc8YlxIeDNwRQRE195krdEAyh_tD38P_hCJERX&_nc_ohc=taIH9m8J4fEAX9J8ehc&_nc_ht=scontent.fjsr1-1.fna&oh=00_AfB6VbUc9lekbnLG2UatpvTQDo1wweTmjoVrAky2y2Uu2w&oe=65E4972E"
+  }
+  ,
+  {
+    "_id": 4,
+    "gest":"বিশেষ অতিথি",
+    "name":": রাশেদুজ্জামান বাবু",
+    "job":"সাধারণ সম্পাদক <br> জেলা শিল্পকলা একাডেমি, কুড়িগ্রাম",
+    "picture": "https://scontent.fjsr1-1.fna.fbcdn.net/v/t39.30808-6/331013229_750327686335434_3771413763334806602_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=9c7eae&_nc_eui2=AeGdodQsA3SOHdaSHbs7hst3qPjyGB-eJSWo-PIYH54lJQIDJdjKrVlf5h-8L5HjOHYfYYBG4AoHvVv03BCm4Prc&_nc_ohc=J6K4BRqvO6wAX-FtJ_i&_nc_ht=scontent.fjsr1-1.fna&oh=00_AfBIekDTpst33_OQmMKKXJLdwJ6oozV_aZhjbnxJkRu8nQ&oe=65C21B0D"
+  }
+  ,
+  {
+    "_id": 5,
+    "gest":"বিশেষ অতিথি",
+    "name":": বীরমুক্তিযোদ্ধা হরি গোপাল সরকার",
+    "job":"সহযোগী অধ্যাপক, (অবঃ)",
+    "picture": "https://i.ibb.co/Ltk5Hxr/1.png"
+  }
+  ,
+  {
+    "_id": 6,
+    "gest":"বিশেষ অতিথি",
+    "name":": ডাঃ লোকমান হাকিম ",
+    "job":"সাধারণ সম্পাদক, বি.এম.এ. কুড়িগ্রাম",
+    "picture": "https://i.ibb.co/Ltk5Hxr/1.png"
+  }
   
 ]
 
