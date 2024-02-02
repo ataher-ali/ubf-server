@@ -3,7 +3,7 @@ const app = express()
 const port = 1010
 const volunteer = require('./volunteer.json')
 const certificate = require('./certificate.json')
-const Blogs = require('./blogs.json')
+const gest = require('./gest.json')
 
 var cors = require('cors')
 
@@ -45,9 +45,9 @@ app.get('/certificate', (req, res) => {
     res.send(Certificate) 
 })
 
-//food
-app.get('/blogs', (req, res) => {
-  res.send(Blogs)
+//gest
+app.get('/gest', (req, res) => {
+  res.send(gest)
 })
 
 
