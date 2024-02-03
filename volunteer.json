@@ -8,7 +8,7 @@
       "picture": "https://i.ibb.co/Yh7gxT7/296748578-821751672147912-5616851674344455549-n.jpg",
       "bio" :"abcd",
       "facebook":"https://www.facebook.com/zion.rayhan.3",
-      "whatsapp":"",
+      "tel":"",
       "tel":""
     },
     {
@@ -20,7 +20,7 @@
       "picture": "https://i.ibb.co/R7QhbjV/399875650-674815048076844-5503223278554123284-n.jpg",
       "bio" :"",
       "facebook":"https://www.facebook.com/",
-      "whatsapp":""
+      "tel":""
     },
     {
       "_id":4,
@@ -31,7 +31,7 @@
       "picture": "https://i.ibb.co/88tS7GH/128194592-139876497548225-5881950318006827444-n.jpg",
       "bio" :"",
       "facebook":"https://www.facebook.com/atahar369/",
-      "whatsapp":"01751251286"
+      "tel":"01751251286"
     },
     {
       "_id":5,
@@ -42,7 +42,7 @@
       "picture": "https://i.ibb.co/jZ2gSRd/356368973-1001389200871746-1615404066156307860-n.jpg",
       "bio" :"",
       "facebook":"https://www.facebook.com/Sajjadsajib37",
-      "whatsapp":""
+      "tel":""
     },
     {
       "_id":6, 
@@ -53,7 +53,7 @@
       "picture": "https://i.ibb.co/4tLjC2F/411191558-319414204242738-918797324874019607-n.jpg",
       "bio" :"",
       "facebook":"https://www.facebook.com/",
-      "whatsapp":""
+      "tel":""
     },
     {
       "_id":7,
@@ -64,7 +64,18 @@
       "picture": "https://i.ibb.co/ygKgVbw/363323333-302766785482612-6875231959447387708-n.jpg",
       "bio" :"",
       "facebook":"https://www.facebook.com/profile.php?id=100072478786137",
-      "whatsapp":""
+      "tel":""
+    },
+    {
+      "_id":8,
+      "idno":"",
+      "url":"Foridul",
+      "name": "ফরিদুল ইসলাম",
+      "designation":"স্বেচ্ছাসেবক",
+      "picture": "https://i.ibb.co/WyZdbD7/418462723-358587233784357-8145094853112917785-n.jpg",
+      "bio" :"",
+      "facebook":"https://www.facebook.com/profile.php?id=100088992497952",
+      "tel":""
     }
     
   ]
