@@ -87,6 +87,18 @@
       "bio" :"",
       "facebook":"https://www.facebook.com/bokshimdayon.ayon",
       "tel":""
+    }, 
+    {
+      "_id":10,
+      "idno":"",
+      "url":"Sayadha_Marjana_Khandokar",
+      "name": "সায়াধা মারজানা খন্দকার",
+      "designation":"স্বেচ্ছাসেবক",
+      "picture": "",
+      "bio" :"",
+      "facebook":"https://www.facebook.com/profile.php?id=100021940635177",
+      "tel":"০১৯৭৮৬৭২৯৯০"
+      
     }
     
   ]
