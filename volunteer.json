@@ -76,6 +76,17 @@
       "bio" :"",
       "facebook":"https://www.facebook.com/profile.php?id=100088992497952",
       "tel":""
+    },
+    {
+      "_id":9,
+      "idno":"",
+      "url":"Ayon",
+      "name": "আয়ন",
+      "designation":"স্বেচ্ছাসেবক",
+      "picture": "https://i.ibb.co/GJNHkCc/42182320-323542434860293-8801364858340638720-n.jpg",
+      "bio" :"",
+      "facebook":"https://www.facebook.com/bokshimdayon.ayon",
+      "tel":""
     }
     
   ]
