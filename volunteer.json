@@ -8,11 +8,21 @@
       "picture": "https://i.ibb.co/Yh7gxT7/296748578-821751672147912-5616851674344455549-n.jpg",
       "bio" :"abcd",
       "facebook":"https://www.facebook.com/zion.rayhan.3",
-      "tel":"",
       "tel":""
     },
     {
-      "_id":2,
+      "_id":2, 
+      "idno":"",
+      "url":"Shondhi_Sorkar",
+      "name": "সন্ধি সরকার",
+      "designation":"স্বেচ্ছাসেবক",
+      "picture": "https://i.ibb.co/4tLjC2F/411191558-319414204242738-918797324874019607-n.jpg",
+      "bio" :"",
+      "facebook":"https://www.facebook.com/",
+      "tel":""
+    },
+    {
+      "_id":3,
       "idno":"",
       "url":"TasmiaTahsin",
       "name": "তাসমিয়া তাহসিন ",
@@ -25,6 +35,18 @@
     {
       "_id":4,
       "idno":"",
+      "url":"Sayadha_Marjana_Khandokar",
+      "name": "সায়াধা মারজানা খন্দকার",
+      "designation":"স্বেচ্ছাসেবক",
+      "picture": "https://i.ibb.co/72T7VV6/Whats-App-Image-2024-02-06-at-01-20-19-a519fa27.jpg",
+      "bio" :"",
+      "facebook":"https://www.facebook.com/profile.php?id=100021940635177",
+      "tel":""
+      
+    },
+    {
+      "_id":5,
+      "idno":"",
       "url":"atahar",
       "name": "আতাহার আলি",
       "designation":"স্বেচ্ছাসেবক ",
@@ -34,7 +56,7 @@
       "tel":"01751251286"
     },
     {
-      "_id":5,
+      "_id":6,
       "idno":"",
       "url":"Sajjad_sajib",
       "name": "সাজ্জাদ হোসেন সজীব ",
@@ -44,17 +66,7 @@
       "facebook":"https://www.facebook.com/Sajjadsajib37",
       "tel":""
     },
-    {
-      "_id":6, 
-      "idno":"",
-      "url":"Shondhi_Sorkar",
-      "name": "সন্ধি সরকার",
-      "designation":"স্বেচ্ছাসেবক",
-      "picture": "https://i.ibb.co/4tLjC2F/411191558-319414204242738-918797324874019607-n.jpg",
-      "bio" :"",
-      "facebook":"https://www.facebook.com/",
-      "tel":""
-    },
+    
     {
       "_id":7,
       "idno":"",
@@ -87,19 +99,8 @@
       "bio" :"",
       "facebook":"https://www.facebook.com/bokshimdayon.ayon",
       "tel":""
-    }, 
-    {
-      "_id":10,
-      "idno":"",
-      "url":"Sayadha_Marjana_Khandokar",
-      "name": "সায়াধা মারজানা খন্দকার",
-      "designation":"স্বেচ্ছাসেবক",
-      "picture": "https://i.ibb.co/72T7VV6/Whats-App-Image-2024-02-06-at-01-20-19-a519fa27.jpg",
-      "bio" :"",
-      "facebook":"https://www.facebook.com/profile.php?id=100021940635177",
-      "tel":""
-      
     }
+
     
   ]
 
